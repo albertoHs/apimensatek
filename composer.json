@@ -19,7 +19,7 @@
     },
     "autoload": {
         "psr-4": {
-            "mensatek\\api\\": "src"
+            "apimensatek\\": "src"
         }
     },
     "config": {
