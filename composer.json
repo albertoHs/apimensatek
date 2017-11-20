@@ -19,8 +19,7 @@
             "apimensatek\\": "src"
         }
     },
-    "minimum-stability":{
-    },
+    "minimum-stability":"dev",
     "config": {
         "sort-packages": true
     }
