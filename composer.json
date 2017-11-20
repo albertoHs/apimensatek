@@ -1,29 +1,20 @@
 {
-    "name": "firebase/php-jwt",
-    "description": "A simple library to encode and decode JSON Web Tokens (JWT) in PHP. Should conform to the current spec.",
-    "homepage": "https://github.com/firebase/php-jwt",
+    "name": "albertoHs/apimensatek",
+    "description": "Api mensatek",
+    "homepage": "https://github.com/albertoHs/apimensatek",
     "authors": [
         {
-            "name": "Neuman Vong",
-            "email": "neuman+pear@twilio.com",
-            "role": "Developer"
-        },
-        {
-            "name": "Anant Narayanan",
-            "email": "anant@php.net",
+            "name": "Mensatek",
             "role": "Developer"
         }
     ],
-    "license": "BSD-3-Clause",
+    "license": "unknown free",
     "require": {
         "php": ">=5.3.0"
     },
     "autoload": {
         "psr-4": {
-            "Firebase\\JWT\\": "src"
+            "albertoHs\\apimensatek\\": "src"
         }
-    },
-    "require-dev": {
-        "phpunit/phpunit": " 4.8.35"
     }
 }
